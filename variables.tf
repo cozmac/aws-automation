@@ -7,11 +7,11 @@ variable "vpc_cidr_block" {
 }
 
 variable "access_key" {
-  default = "Put your access key here"
+  default = "AKIAIL4PNKY6C3YKEPWQ"
 }
 
 variable "secret_key" {
-  default = "Put your secret key here"
+  default = "OxbyS4d7VR414SS8dRIE5KZgPQFpJjl8KZeXhcDY"
 }
 
 variable "availability_zones" {
